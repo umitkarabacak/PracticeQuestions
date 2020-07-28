@@ -1,0 +1,71 @@
+{
+  "result": [
+    {
+      "name": "IOS",
+      "series": [
+        {
+          "name": "27 Temmuz 2020",
+          "value": 1
+        },
+        {
+          "name": "29 Temmuz 2020",
+          "value": 1
+        },
+        {
+          "name": "30 Temmuz 2020",
+          "value": 4
+        },
+        {
+          "name": "31 Temmuz 2020",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Android",
+      "series": [
+        {
+          "name": "28 Temmuz 2020",
+          "value": 2
+        },
+        {
+          "name": "29 Temmuz 2020",
+          "value": 4
+        },
+        {
+          "name": "30 Temmuz 2020",
+          "value": 1
+        },
+        {
+          "name": "31 Temmuz 2020",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Toplam",
+      "series": [
+        {
+          "name": "27 Temmuz 2020",
+          "value": 1
+        },
+        {
+          "name": "28 Temmuz 2020",
+          "value": 2
+        },
+        {
+          "name": "29 Temmuz 2020",
+          "value": 5
+        },
+        {
+          "name": "30 Temmuz 2020",
+          "value": 5
+        },
+        {
+          "name": "31 Temmuz 2020",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}
