@@ -26,6 +26,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Number002", "Number002", "{
 		Questions\Number002\Readme.md = Questions\Number002\Readme.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Number003", "Number003", "{A4EB325F-2430-444B-8DE4-B50C187F418F}"
+	ProjectSection(SolutionItems) = preProject
+		Number003\QuestionNumber003.cs = Number003\QuestionNumber003.cs
+		Number003\QuestionNumber003SampleDataResponse.json = Number003\QuestionNumber003SampleDataResponse.json
+		Number003\Readme.md = Number003\Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DC0265B0-4546-459C-A9C5-72C91F237FD6} = {79214E92-3617-4010-A8E2-9C60D7D5BC46}
 		{121D6468-6ED3-4AFE-A68D-3D48EFD40228} = {79214E92-3617-4010-A8E2-9C60D7D5BC46}
+		{A4EB325F-2430-444B-8DE4-B50C187F418F} = {79214E92-3617-4010-A8E2-9C60D7D5BC46}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CDA85D1A-A64A-484E-9F66-E2A7F97A0978}
